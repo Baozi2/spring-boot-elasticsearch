@@ -1,0 +1,7 @@
+spring:
+  data:
+    elasticsearch:
+      cluster-name:  #
+      cluster-nodes: #
+logging:
+  level: info
